@@ -1,0 +1,16 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "MATLAB: run empirical pipeline",
+      "type": "shell",
+      "command": "/Applications/MATLAB_R2025b.app/bin/matlab",
+      "args": [
+        "-batch",
+        "run('matlab/papers/empirical_rsue/run_all.m');"
+      ],
+      "options": { "cwd": "${workspaceFolder}" },
+      "problemMatcher": []
+    }
+  ]
+}
