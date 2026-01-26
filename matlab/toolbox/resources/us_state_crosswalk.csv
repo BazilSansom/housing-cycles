@@ -1,0 +1,52 @@
+State,StLouisFedID,StateCode,NumericID
+Alaska,AKURN,AK,1
+Alabama,ALURN,AL,2
+Arkansas,ARURN,AR,3
+Arizona,AZURN,AZ,4
+California,CAURN,CA,5
+Colorado,COURN,CO,6
+Connecticut,CTURN,CT,7
+District of Columbia,DCURN,DC,8
+Delaware,DEURN,DE,9
+Florida,FLURN,FL,10
+Georgia,GAURN,GA,11
+Hawaii,HIURN,HI,12
+Iowa,IAURN,IA,13
+Idaho,IDURN,ID,14
+Illinois,ILURN,IL,15
+Indiana,INURN,IN,16
+Kansas,KSURN,KS,17
+Kentucky,KYURN,KY,18
+Louisiana,LAURN,LA,19
+Massachusetts,MAURN,MA,20
+Maryland,MDURN,MD,21
+Maine,MEURN,ME,22
+Michigan,MIURN,MI,23
+Minnesota,MNURN,MN,24
+Missouri,MOURN,MO,25
+Mississippi,MSURN,MS,26
+Montana,MTURN,MT,27
+North Carolina,NCURN,NC,28
+North Dakota,NDURN,ND,29
+Nebraska,NEURN,NE,30
+New Hampshire,NHURN,NH,31
+New Jersey,NJURN,NJ,32
+New Mexico,NMURN,NM,33
+Nevada,NVURN,NV,34
+New York,NYURN,NY,35
+Ohio,OHURN,OH,36
+Oklahoma,OKURN,OK,37
+Oregon,ORURN,OR,38
+Pennsylvania,PAURN,PA,39
+Rhode Island,RIURN,RI,40
+South Carolina,SCURN,SC,41
+South Dakota,SDURN,SD,42
+Tennessee,TNURN,TN,43
+Texas,TXURN,TX,44
+Utah,UTURN,UT,45
+Virginia,VAURN,VA,46
+Vermont,VTURN,VT,47
+Washington,WAURN,WA,48
+Wisconsin,WIURN,WI,49
+West Virginia,WVURN,WV,50
+Wyoming,WYURN,WY,51
