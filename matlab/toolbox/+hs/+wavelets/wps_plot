@@ -1,0 +1,4 @@
+function [ax,out] = wps_plot(y,t,cfg,varargin)
+    out = hs.wavelets.wps_awt(y,cfg);
+    ax  = hs.wavelets.plot_wps(t,out,varargin{:});
+end
